@@ -1,2 +1,2 @@
 # RestSpringBoot
-Reat APIs with SpringBoot
+Rest APIs with SpringBoot
